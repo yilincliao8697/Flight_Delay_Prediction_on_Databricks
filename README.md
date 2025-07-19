@@ -1,4 +1,4 @@
-Project Summary: Flight Delay Prediction on Databricks (Azure Cloud)
+Flight Delay Prediction on Databricks (Azure Cloud)
 
 This project involves building a machine learning solution on the Databricks platform to predict U.S. domestic flight delays using large-scale flight and weather data from 2015–2021. The workflow includes accessing a shared Databricks workspace, cloning a starter notebook, connecting to a Spark cluster, and configuring Azure Blob Storage with secure credentials.
 
